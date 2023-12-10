@@ -22,13 +22,13 @@ title: "#Remigration2030"
 email: remigration2030@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are Europeans advocating for non-violent solutions to mass migration.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: "remigration2030.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: remigration2030
 github_username:  remigration2030
 
 # Build settings
-theme: minima
+theme: 
 plugins:
   - jekyll-feed
 
